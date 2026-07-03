@@ -8,11 +8,6 @@ AI/ML Engineer building production-grade ML & LLM systems. Currently deepening m
 - LLM-powered applications and agentic workflows
 - Classical ML (XGBoost, Random Forest) for production use cases like fraud detection & recommendations
 
-## 🌱 Currently learning
-- Advanced DSA patterns (Trees, Graphs) for technical interviews
-- ML system design at scale
-- MLOps: experiment tracking, model registries, CI/CD for ML
-
 ## 🛠️ Languages & Tools
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -24,7 +19,7 @@ AI/ML Engineer building production-grade ML & LLM systems. Currently deepening m
 
 ## 📫 Connect
 - Email: [subhadeepdas20011029@gmail.com](mailto:subhadeepdas20011029@gmail.com)
-- LinkedIn: [subhadeep-das-2a75b6178](https://www.linkedin.com/in/subhadeep-das-2a75b6178/)
+- LinkedIn: [subhadeep2910](https://www.linkedin.com/in/subhadeep2910/)
 - Twitter: [@Subhadeep291007](https://twitter.com/Subhadeep291007)
 
 ## 📊 GitHub Stats
