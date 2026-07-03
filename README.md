@@ -21,7 +21,3 @@ AI/ML Engineer building production-grade ML & LLM systems. Currently deepening m
 - Email: [subhadeepdas20011029@gmail.com](mailto:subhadeepdas20011029@gmail.com)
 - LinkedIn: [subhadeep2910](https://www.linkedin.com/in/subhadeep2910/)
 - Twitter: [@Subhadeep291007](https://twitter.com/Subhadeep291007)
-
-## 📊 GitHub Stats
-[![Subhadeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhadeep01&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhadeep01&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
